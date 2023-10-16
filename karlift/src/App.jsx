@@ -19,6 +19,7 @@ function App() {
     
 
     <div>
+  
        <NavBar />
         <Link to='/' component={Home}></Link> 
         <Link to='/about' component={About}></Link> 
