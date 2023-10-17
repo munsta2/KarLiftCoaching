@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 
 import Home from './Home'
 import About from './About'
 import ApllicationForm from './ApplicationForm'
+import Footer from './Footer'
 import {
   BrowserRouter as Router,
   Route,
@@ -31,6 +31,7 @@ function App() {
           <Route path='/application' element={<ApllicationForm/>}/>
        </Routes>
      
+      <Footer />
     </div>
   );
 }

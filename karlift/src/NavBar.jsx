@@ -5,18 +5,18 @@ const NavBar = () => {
   return (
     <div>
       <Logo />
-       <nav className="bg-blue-500 p-4 flex justify-between items-center">
+       <nav className="bg-kar-blue p-4">
  
 
-            <ul className="flex">
+            <ul className="flex items-center justify-center space-x-6">
               <li className="mr-6">
-                <Link to="/" className="text-white hover:text-gray-300">Home</Link>
+                <Link to="/" className="text-white hover:text-gray-300 font-bold text-lg">Home</Link>
               </li>
               <li className="mr-6">
-                <Link to="/application" className="text-white hover:text-gray-300">Application Form</Link>
+                <Link to="/application" className="text-white hover:text-gray-300 font-bold text-lg">Application Form</Link>
               </li>
               <li>
-                <Link to="/about" className="text-white hover:text-gray-300">About Me</Link>
+                <Link to="/about" className="text-white hover:text-gray-300 font-bold text-lg">About Me</Link>
               </li>
             </ul>
             </nav>
