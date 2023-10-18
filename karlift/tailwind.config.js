@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         'kar-blue' : '#0066ff',
-        'kar-white' : '#f1f5f9',
+        'kar-white' : '#f1f5f9',  
         'kar-light-grey' : '#cbd5e1'
 
       }
