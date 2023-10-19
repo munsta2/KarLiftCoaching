@@ -16,6 +16,11 @@ const Home = () => {
           on fitness related topics with the end goal being transforming there lifestyle to
           be more active and healthy
       </p>
+      <br />
+      <p>
+      Wether your goals are to lose weight or build mucsle I can help you make lifestyle changes to 
+help you achive those goals!
+      </p>
 
     </div>
     <div class="w-1/2 h-1/2 bg-kar-light-grey flex-column items-center justify-center">
