@@ -69,62 +69,72 @@ const Home = () => {
     //
     //
 
-    <div className="flex flex-col h-screen">
+    <div className="flex flex-col h-screen text-center">
+      {/* TOP BOX */}
       <div className="flex-1 bg-kar-white p-4">
-        <h1 className="text-2xl md:text-3xl">Lifestyle Coaching</h1>
-        <p>
+        <h1 className="text-2xl md:text-3xl font-bold font-serif">
+          Lifestyle Coaching
+        </h1>
+        <p className="w-full max-w-md mx-auto text-center my-4">
           The main goal of the services I provide to my clients is to educate
           them on fitness-related topics with the end goal being transforming
           their lifestyle to be more active and healthy.
         </p>
-        <p>
+        <p className="w-full max-w-md mx-auto text-center my-4">
           Whether your goals are to lose weight or build muscle, I can help you
           make lifestyle changes to help you achieve those goals!
         </p>
       </div>
-      <div className="flex-1 bg-kar-light-grey p-4">
+      {/* SECOND BOX */}
+      <div className="flex-1 bg-kar-light-grey p-4 ">
         <div className="text-center">
-          <h1 className="text-2xl md:text-3xl">Included in the service:</h1>
-          <h2>Nutrition guidance</h2>
-          <p>
+          <h1 className="text-2xl md:text-3xl font-bold font-serif">
+            Included in the service:
+          </h1>
+          <h2 className="font-bold">Nutrition guidance</h2>
+          <p className="w-full max-w-md mx-auto text-center my-4">
             I provide guidance on how to approach nutrition and come up with a
             plan that best suits your lifestyle.
           </p>
-          <h2>Nutrition guidence</h2>
+          <h2 className="font-bold">Nutrition guidence</h2>
 
-          <p className="font-normal text-base">
+          <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
             I provide guidence on how to appoach nutrition and coming up with a
             plan that best suits your lifestyle
           </p>
 
-          <h2>Custom Training/Cardio Programs</h2>
-          <p className="font-normal text-base">
+          <h2 className="font-bold">Custom Training/Cardio Programs</h2>
+          <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
             Custom workout plans designed for you that align with your goals and
             fitness needs
           </p>
-          <h2>Unlimited Q&A via email or text​</h2>
-          <p className="font-normal text-base">
+          <h2 className="font-bold">Unlimited Q&A via email or text​</h2>
+          <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
             You can reach out to me any time if you have any questions regarding
             fitness or anything else you might need!
           </p>
-          <h2>Weekly Check-Ins and assessments</h2>
-          <p className="font-normal text-base">
+          <h2 className="font-bold">Weekly Check-Ins and assessments</h2>
+          <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
             Will have weekly check-ins to montior your progress and see how your
             doing physically and mentally and if we need to make any changes
           </p>
-          <h2>Supplementation advice</h2>
-          <p className="font-normal text-base">
+          <h2 className="font-bold">Supplementation advice</h2>
+          <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
             The first step to fitness is alawys getting nutirtion and training
             In check but we can discus supplments that might be useful
           </p>
         </div>
       </div>
-      <div className="flex-1 bg-kar-light-grey p-4">
-        <h1 className="text-2xl md:text-3xl">Pricing</h1>
-        {/* Add pricing details here */}
+      {/* THIRD BOX */}
+      <div className="flex-1 bg-kar-white p-0 font-serif  max-h-16">
+        <h1 className="text-2xl md:text-3xl font-bold">Pricing</h1>
+        <p className="font-sans">
+          For my Coaching services I charge $75 monthly. <br />
+        </p>
       </div>
-      <div className="flex-1 bg-kar-white p-4">
-        <h1 className="text-xl md:text-2xl text-center">
+      {/* FOURTH BOX */}
+      <div className="flex-1 bg-kar-light-grey p-4 pb-14">
+        <h1 className="text-xl md:text-2xl text-center font-serif font-bold lg:align-middle">
           If you wish to work with me to help you achieve your goals, head over
           to the Application form page and submit your application, and I'll
           reach out to you!
