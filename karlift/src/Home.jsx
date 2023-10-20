@@ -77,7 +77,7 @@ const Home = () => {
         </h1>
         <p className="w-full max-w-md mx-auto text-center my-4">
           The main goal of the services I provide to my clients is to educate
-          them on fitness-related topics with the end goal being transforming
+          them on fitness-related topics, with the end goal being to transform
           their lifestyle to be more active and healthy.
         </p>
         <p className="w-full max-w-md mx-auto text-center my-4">
@@ -110,18 +110,19 @@ const Home = () => {
           </p>
           <h2 className="font-bold">Unlimited Q&A via email or text​</h2>
           <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
-            You can reach out to me any time if you have any questions regarding
-            fitness or anything else you might need!
+            You can reach out to me at any time if you have any questions
+            regarding fitness or anything else you might need!
           </p>
           <h2 className="font-bold">Weekly Check-Ins and assessments</h2>
           <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
-            Will have weekly check-ins to montior your progress and see how your
-            doing physically and mentally and if we need to make any changes
+            We will have weekly check-ins to monitor your progress, see how you
+            are doing physically and mentally, and see if we need to make any
+            changes.
           </p>
           <h2 className="font-bold">Supplementation advice</h2>
           <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
-            The first step to fitness is alawys getting nutirtion and training
-            In check but we can discus supplments that might be useful
+            The first step to fitness is always getting nutrition and training
+            in check, but we can discuss supplements that might be useful.
           </p>
         </div>
       </div>
@@ -129,14 +130,14 @@ const Home = () => {
       <div className="flex-1 bg-kar-white p-0 font-serif  max-h-16">
         <h1 className="text-2xl md:text-3xl font-bold">Pricing</h1>
         <p className="font-sans">
-          For my Coaching services I charge $75 monthly. <br />
+          For my coaching services, I charge $75 monthly. <br />
         </p>
       </div>
       {/* FOURTH BOX */}
       <div className="flex-1 bg-kar-light-grey p-4 pb-14">
         <h1 className="text-xl md:text-2xl text-center font-serif font-bold lg:align-middle">
           If you wish to work with me to help you achieve your goals, head over
-          to the Application form page and submit your application, and I'll
+          to the application form page and submit your application, and I'll
           reach out to you!
         </h1>
       </div>
