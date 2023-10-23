@@ -27,36 +27,39 @@ const Home = () => {
           </h1>
           <h2 className="font-bold">Nutrition guidance</h2>
           <p className="w-full max-w-md mx-auto text-center my-4">
-            I provide guidance on how to approach nutrition and come up with a
-            plan that best suits your lifestyle.
-          </p>
-          <h2 className="font-bold">Nutrition guidence</h2>
-
-          <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
-            I provide guidence on how to appoach nutrition and coming up with a
-            plan that best suits your lifestyle
+            I work closely with you to develop a personalized nutrition plan
+            that suits your lifestyle and dietary preferences. Together, we'll
+            make informed choices and create sustainable habits to support your
+            fitness journey.
           </p>
 
           <h2 className="font-bold">Custom Training/Cardio Programs</h2>
           <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
-            Custom workout plans designed for you that align with your goals and
-            fitness needs
+            Experience the benefits of personalized fitness with workout plans
+            tailored to your unique goals and fitness needs. Whether you want to
+            build muscle, lose weight, or improve your overall fitness, I've got
+            a plan just for you.
           </p>
           <h2 className="font-bold">Unlimited Q&A via email or text​</h2>
           <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
-            You can reach out to me at any time if you have any questions
-            regarding fitness or anything else you might need!
+            Your success is my top priority. You can reach out to me at any time
+            with your fitness-related questions or any other support you might
+            need. I'm here to provide guidance and assistance whenever you
+            require it.
           </p>
           <h2 className="font-bold">Weekly Check-Ins and assessments</h2>
           <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
-            We will have weekly check-ins to monitor your progress, see how you
-            are doing physically and mentally, and see if we need to make any
-            changes.
+            To keep you on the path to success, I conduct weekly check-ins.
+            These assessments help me monitor your progress, both physically and
+            mentally, and enable us to make any necessary adjustments to your
+            program. Your well-being is my focus.
           </p>
           <h2 className="font-bold">Supplementation advice</h2>
           <p className="font-normal text-base w-full max-w-md mx-auto text-center my-4">
-            The first step to fitness is always getting nutrition and training
-            in check, but we can discuss supplements that might be useful.
+            In addition to nutrition and training, I offer advice on
+            supplementation. We can discuss which supplements, if any, may be
+            beneficial for your specific goals and how to incorporate them
+            effectively into your routine.
           </p>
         </div>
       </div>
