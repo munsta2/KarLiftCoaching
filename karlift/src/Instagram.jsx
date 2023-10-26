@@ -11,6 +11,7 @@ const InstagramLogo = () => {
         alt="Instagram"
         width="25" // Adjust the width and height as needed
         height="25"
+        className="hover:invert"
       />
     </a>
   );

@@ -73,9 +73,9 @@ const Home = () => {
       {/* FOURTH BOX */}
       <div className="flex-1 bg-kar-light-grey p-4 pb-14">
         <h1 className="text-xl md:text-2xl text-center font-serif font-bold lg:align-middle">
-          If you wish to work with me to help you achieve your goals, head over
-          to the application form page and submit your application, and I'll
-          reach out to you!
+          Ready to take the first step toward achieving your fitness goals?
+          Simply visit the application form page, submit your application, and
+          I'll personally connect with you to kickstart your journey!
         </h1>
       </div>
     </div>
